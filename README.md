@@ -1,3 +1,1 @@
-# cobacoba
-
-A new Flutter project.
+Dokumentasi Acara Study Club Komunitas Mocap
